@@ -1,0 +1,7 @@
+E:\source\practice\Methodlianxi\bin\Debug\Methodlianxi.exe.config
+E:\source\practice\Methodlianxi\bin\Debug\Methodlianxi.exe
+E:\source\practice\Methodlianxi\bin\Debug\Methodlianxi.pdb
+E:\source\practice\Methodlianxi\obj\Debug\Methodlianxi.csproj.AssemblyReference.cache
+E:\source\practice\Methodlianxi\obj\Debug\Methodlianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\Methodlianxi\obj\Debug\Methodlianxi.exe
+E:\source\practice\Methodlianxi\obj\Debug\Methodlianxi.pdb

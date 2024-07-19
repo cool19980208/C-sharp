@@ -1,0 +1,14 @@
+E:\source\practice\Animals.lib\bin\Debug\net8.0\Animals.lib.deps.json
+E:\source\practice\Animals.lib\bin\Debug\net8.0\Animals.lib.dll
+E:\source\practice\Animals.lib\bin\Debug\net8.0\Animals.lib.pdb
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals.lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals.lib.AssemblyInfoInputs.cache
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals.lib.AssemblyInfo.cs
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals.lib.csproj.CoreCompileInputs.cache
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals.lib.dll
+E:\source\practice\Animals.lib\obj\Debug\net8.0\refint\Animals.lib.dll
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals.lib.pdb
+E:\source\practice\Animals.lib\obj\Debug\net8.0\ref\Animals.lib.dll
+E:\source\practice\Animals.lib\bin\Debug\net8.0\BabyStroller.SDK.dll
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals.lib.csproj.AssemblyReference.cache
+E:\source\practice\Animals.lib\obj\Debug\net8.0\Animals..50C6F1E0.Up2Date

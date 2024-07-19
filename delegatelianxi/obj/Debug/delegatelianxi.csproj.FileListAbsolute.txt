@@ -1,0 +1,7 @@
+E:\source\practice\delegatelianxi\bin\Debug\delegatelianxi.exe.config
+E:\source\practice\delegatelianxi\bin\Debug\delegatelianxi.exe
+E:\source\practice\delegatelianxi\bin\Debug\delegatelianxi.pdb
+E:\source\practice\delegatelianxi\obj\Debug\delegatelianxi.csproj.AssemblyReference.cache
+E:\source\practice\delegatelianxi\obj\Debug\delegatelianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\delegatelianxi\obj\Debug\delegatelianxi.exe
+E:\source\practice\delegatelianxi\obj\Debug\delegatelianxi.pdb

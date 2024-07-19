@@ -1,0 +1,7 @@
+E:\source\practice\codelianxi\bin\Debug\codelianxi.exe.config
+E:\source\practice\codelianxi\bin\Debug\codelianxi.exe
+E:\source\practice\codelianxi\bin\Debug\codelianxi.pdb
+E:\source\practice\codelianxi\obj\Debug\codelianxi.csproj.AssemblyReference.cache
+E:\source\practice\codelianxi\obj\Debug\codelianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\codelianxi\obj\Debug\codelianxi.exe
+E:\source\practice\codelianxi\obj\Debug\codelianxi.pdb

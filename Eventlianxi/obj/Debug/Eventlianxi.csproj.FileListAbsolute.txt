@@ -1,0 +1,7 @@
+E:\source\practice\Eventlianxi\bin\Debug\Eventlianxi.exe.config
+E:\source\practice\Eventlianxi\bin\Debug\Eventlianxi.exe
+E:\source\practice\Eventlianxi\bin\Debug\Eventlianxi.pdb
+E:\source\practice\Eventlianxi\obj\Debug\Eventlianxi.csproj.AssemblyReference.cache
+E:\source\practice\Eventlianxi\obj\Debug\Eventlianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\Eventlianxi\obj\Debug\Eventlianxi.exe
+E:\source\practice\Eventlianxi\obj\Debug\Eventlianxi.pdb

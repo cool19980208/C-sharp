@@ -1,0 +1,15 @@
+E:\source\practice\Tuilianxi\bin\Debug\Tuilianxi.exe.config
+E:\source\practice\Tuilianxi\bin\Debug\Tuilianxi.exe
+E:\source\practice\Tuilianxi\bin\Debug\Tuilianxi.pdb
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi.csproj.AssemblyReference.cache
+E:\source\practice\Tuilianxi\obj\Debug\MainWindow.g.cs
+E:\source\practice\Tuilianxi\obj\Debug\App.g.cs
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi_MarkupCompile.cache
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi_MarkupCompile.lref
+E:\source\practice\Tuilianxi\obj\Debug\MainWindow.baml
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi.g.resources
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi.Properties.Resources.resources
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi.csproj.GenerateResource.cache
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi.exe
+E:\source\practice\Tuilianxi\obj\Debug\Tuilianxi.pdb

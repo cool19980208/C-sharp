@@ -1,0 +1,7 @@
+E:\source\practice\trylianxi\bin\Debug\trylianxi.exe.config
+E:\source\practice\trylianxi\bin\Debug\trylianxi.exe
+E:\source\practice\trylianxi\bin\Debug\trylianxi.pdb
+E:\source\practice\trylianxi\obj\Debug\trylianxi.csproj.AssemblyReference.cache
+E:\source\practice\trylianxi\obj\Debug\trylianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\trylianxi\obj\Debug\trylianxi.exe
+E:\source\practice\trylianxi\obj\Debug\trylianxi.pdb

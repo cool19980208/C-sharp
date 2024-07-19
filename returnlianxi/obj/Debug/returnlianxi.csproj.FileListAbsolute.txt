@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\returnlianxi\bin\Debug\returnlianxi.exe.config
+C:\Users\Administrator\source\repos\returnlianxi\bin\Debug\returnlianxi.exe
+C:\Users\Administrator\source\repos\returnlianxi\bin\Debug\returnlianxi.pdb
+C:\Users\Administrator\source\repos\returnlianxi\obj\Debug\returnlianxi.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\returnlianxi\obj\Debug\returnlianxi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\returnlianxi\obj\Debug\returnlianxi.exe
+C:\Users\Administrator\source\repos\returnlianxi\obj\Debug\returnlianxi.pdb

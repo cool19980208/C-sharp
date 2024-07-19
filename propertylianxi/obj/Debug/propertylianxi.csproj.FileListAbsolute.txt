@@ -1,0 +1,7 @@
+E:\source\practice\propertylianxi\bin\Debug\propertylianxi.exe.config
+E:\source\practice\propertylianxi\bin\Debug\propertylianxi.exe
+E:\source\practice\propertylianxi\bin\Debug\propertylianxi.pdb
+E:\source\practice\propertylianxi\obj\Debug\propertylianxi.csproj.AssemblyReference.cache
+E:\source\practice\propertylianxi\obj\Debug\propertylianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\propertylianxi\obj\Debug\propertylianxi.exe
+E:\source\practice\propertylianxi\obj\Debug\propertylianxi.pdb

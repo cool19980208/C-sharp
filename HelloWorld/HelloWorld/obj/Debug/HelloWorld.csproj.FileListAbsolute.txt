@@ -1,0 +1,10 @@
+E:\source\practice\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\source\practice\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\source\practice\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\source\practice\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+E:\source\practice\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\source\practice\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\source\practice\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\source\practice\HelloWorld\HelloWorld\bin\Debug\MyLibrary.dll
+E:\source\practice\HelloWorld\HelloWorld\bin\Debug\MyLibrary.pdb
+E:\source\practice\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.Up2Date

@@ -1,0 +1,12 @@
+E:\source\practice\Combine\bin\Debug\Combine.exe.config
+E:\source\practice\Combine\bin\Debug\Combine.exe
+E:\source\practice\Combine\bin\Debug\Combine.pdb
+E:\source\practice\Combine\bin\Debug\EntityFramework.dll
+E:\source\practice\Combine\bin\Debug\EntityFramework.SqlServer.dll
+E:\source\practice\Combine\bin\Debug\EntityFramework.xml
+E:\source\practice\Combine\bin\Debug\EntityFramework.SqlServer.xml
+E:\source\practice\Combine\obj\Debug\Combine.csproj.AssemblyReference.cache
+E:\source\practice\Combine\obj\Debug\Combine.csproj.CoreCompileInputs.cache
+E:\source\practice\Combine\obj\Debug\Combine.csproj.CopyComplete
+E:\source\practice\Combine\obj\Debug\Combine.exe
+E:\source\practice\Combine\obj\Debug\Combine.pdb

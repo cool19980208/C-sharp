@@ -1,0 +1,7 @@
+E:\source\practice\parameterlianxi\bin\Debug\parameterlianxi.exe.config
+E:\source\practice\parameterlianxi\bin\Debug\parameterlianxi.exe
+E:\source\practice\parameterlianxi\bin\Debug\parameterlianxi.pdb
+E:\source\practice\parameterlianxi\obj\Debug\parameterlianxi.csproj.AssemblyReference.cache
+E:\source\practice\parameterlianxi\obj\Debug\parameterlianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\parameterlianxi\obj\Debug\parameterlianxi.exe
+E:\source\practice\parameterlianxi\obj\Debug\parameterlianxi.pdb

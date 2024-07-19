@@ -1,0 +1,7 @@
+E:\source\practice\My Project\ConsoleHelloWrold\bin\Debug\ConsoleHelloWrold.exe.config
+E:\source\practice\My Project\ConsoleHelloWrold\bin\Debug\ConsoleHelloWrold.exe
+E:\source\practice\My Project\ConsoleHelloWrold\bin\Debug\ConsoleHelloWrold.pdb
+E:\source\practice\My Project\ConsoleHelloWrold\obj\Debug\ConsoleHelloWrold.csproj.AssemblyReference.cache
+E:\source\practice\My Project\ConsoleHelloWrold\obj\Debug\ConsoleHelloWrold.csproj.CoreCompileInputs.cache
+E:\source\practice\My Project\ConsoleHelloWrold\obj\Debug\ConsoleHelloWrold.exe
+E:\source\practice\My Project\ConsoleHelloWrold\obj\Debug\ConsoleHelloWrold.pdb

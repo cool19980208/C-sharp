@@ -1,0 +1,6 @@
+E:\source\practice\Constructorllianxi\bin\Debug\Constructorllianxi.exe.config
+E:\source\practice\Constructorllianxi\bin\Debug\Constructorllianxi.exe
+E:\source\practice\Constructorllianxi\bin\Debug\Constructorllianxi.pdb
+E:\source\practice\Constructorllianxi\obj\Debug\Constructorllianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\Constructorllianxi\obj\Debug\Constructorllianxi.exe
+E:\source\practice\Constructorllianxi\obj\Debug\Constructorllianxi.pdb

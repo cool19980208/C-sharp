@@ -1,0 +1,7 @@
+E:\source\practice\multicastlianxi\bin\Debug\multicastlianxi.exe.config
+E:\source\practice\multicastlianxi\bin\Debug\multicastlianxi.exe
+E:\source\practice\multicastlianxi\bin\Debug\multicastlianxi.pdb
+E:\source\practice\multicastlianxi\obj\Debug\multicastlianxi.csproj.AssemblyReference.cache
+E:\source\practice\multicastlianxi\obj\Debug\multicastlianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\multicastlianxi\obj\Debug\multicastlianxi.exe
+E:\source\practice\multicastlianxi\obj\Debug\multicastlianxi.pdb

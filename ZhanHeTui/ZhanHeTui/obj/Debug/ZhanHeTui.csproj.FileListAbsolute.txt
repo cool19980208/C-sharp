@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ZhanHeTui\ZhanHeTui\bin\Debug\ZhanHeTui.exe.config
+C:\Users\Administrator\source\repos\ZhanHeTui\ZhanHeTui\bin\Debug\ZhanHeTui.exe
+C:\Users\Administrator\source\repos\ZhanHeTui\ZhanHeTui\bin\Debug\ZhanHeTui.pdb
+C:\Users\Administrator\source\repos\ZhanHeTui\ZhanHeTui\obj\Debug\ZhanHeTui.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ZhanHeTui\ZhanHeTui\obj\Debug\ZhanHeTui.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ZhanHeTui\ZhanHeTui\obj\Debug\ZhanHeTui.exe
+C:\Users\Administrator\source\repos\ZhanHeTui\ZhanHeTui\obj\Debug\ZhanHeTui.pdb

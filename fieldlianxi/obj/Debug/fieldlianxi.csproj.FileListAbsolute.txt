@@ -1,0 +1,7 @@
+E:\source\practice\fieldlianxi\bin\Debug\fieldlianxi.exe.config
+E:\source\practice\fieldlianxi\bin\Debug\fieldlianxi.exe
+E:\source\practice\fieldlianxi\bin\Debug\fieldlianxi.pdb
+E:\source\practice\fieldlianxi\obj\Debug\fieldlianxi.csproj.AssemblyReference.cache
+E:\source\practice\fieldlianxi\obj\Debug\fieldlianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\fieldlianxi\obj\Debug\fieldlianxi.exe
+E:\source\practice\fieldlianxi\obj\Debug\fieldlianxi.pdb

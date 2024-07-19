@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\foreachlianxi\bin\Debug\foreachlianxi.exe.config
+C:\Users\Administrator\source\repos\foreachlianxi\bin\Debug\foreachlianxi.exe
+C:\Users\Administrator\source\repos\foreachlianxi\bin\Debug\foreachlianxi.pdb
+C:\Users\Administrator\source\repos\foreachlianxi\obj\Debug\foreachlianxi.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\foreachlianxi\obj\Debug\foreachlianxi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\foreachlianxi\obj\Debug\foreachlianxi.exe
+C:\Users\Administrator\source\repos\foreachlianxi\obj\Debug\foreachlianxi.pdb

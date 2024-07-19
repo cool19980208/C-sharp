@@ -1,0 +1,11 @@
+E:\source\practice\BabyStroller.SDK\bin\Debug\net8.0\BabyStroller.SDK.deps.json
+E:\source\practice\BabyStroller.SDK\bin\Debug\net8.0\BabyStroller.SDK.dll
+E:\source\practice\BabyStroller.SDK\bin\Debug\net8.0\BabyStroller.SDK.pdb
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\BabyStroller.SDK.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\BabyStroller.SDK.AssemblyInfoInputs.cache
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\BabyStroller.SDK.AssemblyInfo.cs
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\BabyStroller.SDK.csproj.CoreCompileInputs.cache
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\BabyStroller.SDK.dll
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\refint\BabyStroller.SDK.dll
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\BabyStroller.SDK.pdb
+E:\source\practice\BabyStroller.SDK\obj\Debug\net8.0\ref\BabyStroller.SDK.dll

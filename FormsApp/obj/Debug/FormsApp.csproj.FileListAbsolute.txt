@@ -1,0 +1,10 @@
+E:\source\practice\FormsApp\bin\Debug\FormsApp.exe.config
+E:\source\practice\FormsApp\bin\Debug\FormsApp.exe
+E:\source\practice\FormsApp\bin\Debug\FormsApp.pdb
+E:\source\practice\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+E:\source\practice\FormsApp\obj\Debug\FormsApp.myForm.resources
+E:\source\practice\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+E:\source\practice\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+E:\source\practice\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+E:\source\practice\FormsApp\obj\Debug\FormsApp.exe
+E:\source\practice\FormsApp\obj\Debug\FormsApp.pdb

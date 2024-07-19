@@ -1,0 +1,7 @@
+E:\source\practice\iflianxi\bin\Debug\iflianxi.exe.config
+E:\source\practice\iflianxi\bin\Debug\iflianxi.exe
+E:\source\practice\iflianxi\bin\Debug\iflianxi.pdb
+E:\source\practice\iflianxi\obj\Debug\iflianxi.csproj.AssemblyReference.cache
+E:\source\practice\iflianxi\obj\Debug\iflianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\iflianxi\obj\Debug\iflianxi.exe
+E:\source\practice\iflianxi\obj\Debug\iflianxi.pdb

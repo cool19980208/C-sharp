@@ -1,0 +1,14 @@
+﻿<Window x:Class="Tuilianxi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tuilianxi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Button1" Content="Clike Me" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="772" Height="131" Click="Button1_Click"/>
+        <Button x:Name="Button2" Content="Clear" HorizontalAlignment="Left" Margin="10,146,0,0" VerticalAlignment="Top" Width="772" RenderTransformOrigin="0.197,-0.49" Height="169" Click="Button2_Click"/>
+
+    </Grid>
+</Window>

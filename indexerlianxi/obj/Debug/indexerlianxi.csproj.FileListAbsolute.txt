@@ -1,0 +1,2 @@
+E:\source\practice\indexerlianxi\obj\Debug\indexerlianxi.csproj.AssemblyReference.cache
+E:\source\practice\indexerlianxi\obj\Debug\indexerlianxi.csproj.CoreCompileInputs.cache

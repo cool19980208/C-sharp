@@ -1,0 +1,10 @@
+E:\source\practice\HelloClass\bin\Debug\HelloClass.exe.config
+E:\source\practice\HelloClass\bin\Debug\HelloClass.exe
+E:\source\practice\HelloClass\bin\Debug\HelloClass.pdb
+E:\source\practice\HelloClass\obj\Debug\HelloClass.csproj.AssemblyReference.cache
+E:\source\practice\HelloClass\obj\Debug\HelloClass.csproj.CoreCompileInputs.cache
+E:\source\practice\HelloClass\obj\Debug\HelloClass.exe
+E:\source\practice\HelloClass\obj\Debug\HelloClass.pdb
+E:\source\practice\HelloClass\bin\Debug\MyLib.dll
+E:\source\practice\HelloClass\bin\Debug\MyLib.pdb
+E:\source\practice\HelloClass\obj\Debug\HelloClass.csproj.CopyComplete

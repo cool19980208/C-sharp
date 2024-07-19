@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BabyStroller/1.0.0": {
+        "dependencies": {
+          "BabyStroller.SDK": "1.0.0"
+        },
+        "runtime": {
+          "BabyStroller.dll": {}
+        }
+      },
+      "BabyStroller.SDK/1.0.0": {
+        "runtime": {
+          "BabyStroller.SDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BabyStroller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BabyStroller.SDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

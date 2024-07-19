@@ -1,0 +1,7 @@
+E:\source\practice\suanfalianxi\bin\Debug\suanfalianxi.exe.config
+E:\source\practice\suanfalianxi\bin\Debug\suanfalianxi.exe
+E:\source\practice\suanfalianxi\bin\Debug\suanfalianxi.pdb
+E:\source\practice\suanfalianxi\obj\Debug\suanfalianxi.csproj.AssemblyReference.cache
+E:\source\practice\suanfalianxi\obj\Debug\suanfalianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\suanfalianxi\obj\Debug\suanfalianxi.exe
+E:\source\practice\suanfalianxi\obj\Debug\suanfalianxi.pdb

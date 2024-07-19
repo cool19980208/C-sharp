@@ -1,0 +1,6 @@
+E:\source\practice\Mylib1\bin\Debug\Mylib1.dll
+E:\source\practice\Mylib1\bin\Debug\Mylib1.pdb
+E:\source\practice\Mylib1\obj\Debug\Mylib1.csproj.AssemblyReference.cache
+E:\source\practice\Mylib1\obj\Debug\Mylib1.csproj.CoreCompileInputs.cache
+E:\source\practice\Mylib1\obj\Debug\Mylib1.dll
+E:\source\practice\Mylib1\obj\Debug\Mylib1.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStroller", "BabyStroller.csproj", "{99B7B4D3-BE31-4436-BA69-80AC5D4CA52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStroller.SDK", "..\BabyStroller.SDK\BabyStroller.SDK.csproj", "{97D7D315-98B7-423A-864F-C7FFC1CD1AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B7B4D3-BE31-4436-BA69-80AC5D4CA52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B7B4D3-BE31-4436-BA69-80AC5D4CA52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B7B4D3-BE31-4436-BA69-80AC5D4CA52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B7B4D3-BE31-4436-BA69-80AC5D4CA52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D7D315-98B7-423A-864F-C7FFC1CD1AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D7D315-98B7-423A-864F-C7FFC1CD1AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D7D315-98B7-423A-864F-C7FFC1CD1AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D7D315-98B7-423A-864F-C7FFC1CD1AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5789A2-FBC3-4EDE-BE7D-B6FCBD240041}
+	EndGlobalSection
+EndGlobal

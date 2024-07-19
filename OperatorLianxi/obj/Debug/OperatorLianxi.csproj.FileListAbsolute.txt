@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\OperatorLianxi\bin\Debug\OperatorLianxi.exe.config
+C:\Users\Administrator\source\repos\OperatorLianxi\bin\Debug\OperatorLianxi.exe
+C:\Users\Administrator\source\repos\OperatorLianxi\bin\Debug\OperatorLianxi.pdb
+C:\Users\Administrator\source\repos\OperatorLianxi\obj\Debug\OperatorLianxi.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OperatorLianxi\obj\Debug\OperatorLianxi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OperatorLianxi\obj\Debug\OperatorLianxi.exe
+C:\Users\Administrator\source\repos\OperatorLianxi\obj\Debug\OperatorLianxi.pdb

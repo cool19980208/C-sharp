@@ -1,0 +1,7 @@
+E:\source\practice\forlianxi\bin\Debug\forlianxi.exe.config
+E:\source\practice\forlianxi\bin\Debug\forlianxi.exe
+E:\source\practice\forlianxi\bin\Debug\forlianxi.pdb
+E:\source\practice\forlianxi\obj\Debug\forlianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\forlianxi\obj\Debug\forlianxi.exe
+E:\source\practice\forlianxi\obj\Debug\forlianxi.pdb
+E:\source\practice\forlianxi\obj\Debug\forlianxi.csproj.AssemblyReference.cache

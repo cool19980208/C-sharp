@@ -1,0 +1,10 @@
+E:\source\practice\HelloOOP\bin\Debug\HelloOOP.exe.config
+E:\source\practice\HelloOOP\bin\Debug\HelloOOP.exe
+E:\source\practice\HelloOOP\bin\Debug\HelloOOP.pdb
+E:\source\practice\HelloOOP\obj\Debug\HelloOOP.csproj.AssemblyReference.cache
+E:\source\practice\HelloOOP\obj\Debug\HelloOOP.csproj.CoreCompileInputs.cache
+E:\source\practice\HelloOOP\obj\Debug\HelloOOP.exe
+E:\source\practice\HelloOOP\obj\Debug\HelloOOP.pdb
+E:\source\practice\HelloOOP\bin\Debug\Mylib1.dll
+E:\source\practice\HelloOOP\bin\Debug\Mylib1.pdb
+E:\source\practice\HelloOOP\obj\Debug\HelloOOP.csproj.CopyComplete

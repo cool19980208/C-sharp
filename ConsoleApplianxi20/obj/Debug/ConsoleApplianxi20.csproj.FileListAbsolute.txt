@@ -1,0 +1,7 @@
+E:\source\practice\ConsoleApplianxi20\bin\Debug\ConsoleApplianxi20.exe.config
+E:\source\practice\ConsoleApplianxi20\bin\Debug\ConsoleApplianxi20.exe
+E:\source\practice\ConsoleApplianxi20\bin\Debug\ConsoleApplianxi20.pdb
+E:\source\practice\ConsoleApplianxi20\obj\Debug\ConsoleApplianxi20.csproj.AssemblyReference.cache
+E:\source\practice\ConsoleApplianxi20\obj\Debug\ConsoleApplianxi20.csproj.CoreCompileInputs.cache
+E:\source\practice\ConsoleApplianxi20\obj\Debug\ConsoleApplianxi20.exe
+E:\source\practice\ConsoleApplianxi20\obj\Debug\ConsoleApplianxi20.pdb

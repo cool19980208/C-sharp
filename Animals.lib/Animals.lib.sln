@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.lib", "Animals.lib.csproj", "{B73315F1-9501-4CEE-82C2-73AB408A01EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.lib2", "..\Animals.lib2\Animals.lib2.csproj", "{1D8774D8-DFD8-4783-927D-CDBEB9FA2BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73315F1-9501-4CEE-82C2-73AB408A01EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73315F1-9501-4CEE-82C2-73AB408A01EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73315F1-9501-4CEE-82C2-73AB408A01EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73315F1-9501-4CEE-82C2-73AB408A01EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8774D8-DFD8-4783-927D-CDBEB9FA2BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8774D8-DFD8-4783-927D-CDBEB9FA2BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8774D8-DFD8-4783-927D-CDBEB9FA2BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8774D8-DFD8-4783-927D-CDBEB9FA2BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3576132E-C71F-47CA-984E-9B1164912259}
+	EndGlobalSection
+EndGlobal

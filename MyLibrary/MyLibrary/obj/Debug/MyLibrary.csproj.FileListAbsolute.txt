@@ -1,0 +1,5 @@
+E:\source\practice\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\source\practice\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+E:\source\practice\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+E:\source\practice\MyLibrary.dll
+E:\source\practice\MyLibrary.pdb

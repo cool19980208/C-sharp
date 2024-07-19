@@ -1,0 +1,7 @@
+E:\source\practice\constantlianxi\bin\Debug\constantlianxi.exe.config
+E:\source\practice\constantlianxi\bin\Debug\constantlianxi.exe
+E:\source\practice\constantlianxi\bin\Debug\constantlianxi.pdb
+E:\source\practice\constantlianxi\obj\Debug\constantlianxi.csproj.AssemblyReference.cache
+E:\source\practice\constantlianxi\obj\Debug\constantlianxi.csproj.CoreCompileInputs.cache
+E:\source\practice\constantlianxi\obj\Debug\constantlianxi.exe
+E:\source\practice\constantlianxi\obj\Debug\constantlianxi.pdb
