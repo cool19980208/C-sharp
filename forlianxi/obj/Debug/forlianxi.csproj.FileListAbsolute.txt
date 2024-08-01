@@ -5,3 +5,10 @@ E:\source\practice\forlianxi\obj\Debug\forlianxi.csproj.CoreCompileInputs.cache
 E:\source\practice\forlianxi\obj\Debug\forlianxi.exe
 E:\source\practice\forlianxi\obj\Debug\forlianxi.pdb
 E:\source\practice\forlianxi\obj\Debug\forlianxi.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\forlianxi\bin\Debug\forlianxi.exe.config
+E:\Projects\C-sharp\forlianxi\bin\Debug\forlianxi.exe
+E:\Projects\C-sharp\forlianxi\bin\Debug\forlianxi.pdb
+E:\Projects\C-sharp\forlianxi\obj\Debug\forlianxi.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\forlianxi\obj\Debug\forlianxi.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\forlianxi\obj\Debug\forlianxi.exe
+E:\Projects\C-sharp\forlianxi\obj\Debug\forlianxi.pdb

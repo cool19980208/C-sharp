@@ -31,7 +31,7 @@ namespace forlianxi
             //}
 
             //简单算法---9 9乘法表    用第一个循环去带入第二个循环，排序后就是 1x1   2x1......  通过二次循环去达到目的
-
+            /*
             for (int a = 1; a <= 9; a++)
             {
                 for (int b = 1; b <= a; b++)
@@ -40,6 +40,11 @@ namespace forlianxi
                 }
                 Console.WriteLine(); //一轮打印一行
             }
+            */
+            int a = 10;
+            int b = a + 5;
+            int c = b - 6;
+            Console.WriteLine(a, b, c);
         }
     }
 }
