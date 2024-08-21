@@ -1,0 +1,10 @@
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\bin\Debug\netstandard2.0\TestLib1.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\bin\Debug\netstandard2.0\TestLib1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\bin\Debug\netstandard2.0\TestLib1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\obj\Debug\netstandard2.0\TestLib1.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\obj\Debug\netstandard2.0\TestLib1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\obj\Debug\netstandard2.0\TestLib1.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\obj\Debug\netstandard2.0\TestLib1.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\obj\Debug\netstandard2.0\TestLib1.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\obj\Debug\netstandard2.0\TestLib1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\TestLib1\obj\Debug\netstandard2.0\TestLib1.pdb

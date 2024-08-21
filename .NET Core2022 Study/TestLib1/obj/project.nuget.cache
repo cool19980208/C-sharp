@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHA6KnoeeqGGVCewFOG3LRG1KyDOWdnHvJx81/G4x2BW+eK92r1b4DIhFl4WakWzif7pDduCtKFT/sl8pdlz6w==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\TestLib1\\TestLib1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

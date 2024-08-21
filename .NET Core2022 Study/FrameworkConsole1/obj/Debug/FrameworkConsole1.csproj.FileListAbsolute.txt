@@ -1,0 +1,10 @@
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\bin\Debug\FrameworkConsole1.exe.config
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\bin\Debug\FrameworkConsole1.exe
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\bin\Debug\FrameworkConsole1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\bin\Debug\TestLib1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\bin\Debug\TestLib1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\obj\Debug\FrameworkConsole1.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\obj\Debug\FrameworkConsole1.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\obj\Debug\FrameworkConsole1.csproj.CopyComplete
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\obj\Debug\FrameworkConsole1.exe
+E:\Projects\C-sharp\.NET Core2022 Study\FrameworkConsole1\obj\Debug\FrameworkConsole1.pdb
