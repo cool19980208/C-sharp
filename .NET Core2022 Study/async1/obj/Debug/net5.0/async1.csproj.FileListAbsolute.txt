@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\async1\bin\Debug\net5.0\async1.exe
+E:\Projects\C-sharp\.NET Core2022 Study\async1\bin\Debug\net5.0\async1.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\async1\bin\Debug\net5.0\async1.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\async1\bin\Debug\net5.0\async1.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\async1\bin\Debug\net5.0\async1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\async1\bin\Debug\net5.0\ref\async1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\async1\bin\Debug\net5.0\async1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\ref\async1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.genruntimeconfig.cache
+E:\Projects\C-sharp\.NET Core2022 Study\async1\obj\Debug\net5.0\async1.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Projects\C-sharp\.NET Core2022 Study\poolTest\obj\Debug\net5.0\poolTest.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\poolTest\obj\Debug\net5.0\poolTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\poolTest\obj\Debug\net5.0\poolTest.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\poolTest\obj\Debug\net5.0\poolTest.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\poolTest\obj\Debug\net5.0\poolTest.csproj.CoreCompileInputs.cache

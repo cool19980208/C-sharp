@@ -10,6 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\TestLib1\TestLib1.csproj" />
   </ItemGroup>
 

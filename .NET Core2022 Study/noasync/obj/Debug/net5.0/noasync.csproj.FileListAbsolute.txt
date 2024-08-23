@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\bin\Debug\net5.0\noasync.exe
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\bin\Debug\net5.0\noasync.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\bin\Debug\net5.0\noasync.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\bin\Debug\net5.0\noasync.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\bin\Debug\net5.0\noasync.dll
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\bin\Debug\net5.0\ref\noasync.dll
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\bin\Debug\net5.0\noasync.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.dll
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\ref\noasync.dll
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\noasync\obj\Debug\net5.0\noasync.genruntimeconfig.cache

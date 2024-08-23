@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\bin\Debug\net5.0\asyncAwait原理1.exe
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\bin\Debug\net5.0\asyncAwait原理1.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\bin\Debug\net5.0\asyncAwait原理1.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\bin\Debug\net5.0\asyncAwait原理1.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\bin\Debug\net5.0\asyncAwait原理1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\bin\Debug\net5.0\ref\asyncAwait原理1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\bin\Debug\net5.0\asyncAwait原理1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\ref\asyncAwait原理1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\asyncAwait原理1\obj\Debug\net5.0\asyncAwait原理1.genruntimeconfig.cache
