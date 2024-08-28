@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\bin\Debug\net5.0\没有async的异步方法.exe
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\bin\Debug\net5.0\没有async的异步方法.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\bin\Debug\net5.0\没有async的异步方法.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\bin\Debug\net5.0\没有async的异步方法.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\bin\Debug\net5.0\没有async的异步方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\bin\Debug\net5.0\ref\没有async的异步方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\bin\Debug\net5.0\没有async的异步方法.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\ref\没有async的异步方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\没有async的异步方法\obj\Debug\net5.0\没有async的异步方法.genruntimeconfig.cache

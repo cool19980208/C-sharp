@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "异步提前终止/1.0.0": {
+        "runtime": {
+          "异步提前终止.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "异步提前终止/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

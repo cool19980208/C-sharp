@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\bin\Debug\net5.0\WhenAllTest.exe
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\bin\Debug\net5.0\WhenAllTest.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\bin\Debug\net5.0\WhenAllTest.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\bin\Debug\net5.0\WhenAllTest.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\bin\Debug\net5.0\WhenAllTest.dll
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\bin\Debug\net5.0\ref\WhenAllTest.dll
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\bin\Debug\net5.0\WhenAllTest.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.dll
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\ref\WhenAllTest.dll
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.genruntimeconfig.cache
+E:\Projects\C-sharp\.NET Core2022 Study\WhenAllTest\obj\Debug\net5.0\WhenAllTest.csproj.AssemblyReference.cache

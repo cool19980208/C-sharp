@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\bin\Debug\net5.0\异步方法作业.exe
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\bin\Debug\net5.0\异步方法作业.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\bin\Debug\net5.0\异步方法作业.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\bin\Debug\net5.0\异步方法作业.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\bin\Debug\net5.0\异步方法作业.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\bin\Debug\net5.0\ref\异步方法作业.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\bin\Debug\net5.0\异步方法作业.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\ref\异步方法作业.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\异步方法作业\obj\Debug\net5.0\异步方法作业.genruntimeconfig.cache

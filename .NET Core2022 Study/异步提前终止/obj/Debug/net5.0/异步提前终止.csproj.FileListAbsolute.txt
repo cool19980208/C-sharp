@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\bin\Debug\net5.0\异步提前终止.exe
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\bin\Debug\net5.0\异步提前终止.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\bin\Debug\net5.0\异步提前终止.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\bin\Debug\net5.0\异步提前终止.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\bin\Debug\net5.0\异步提前终止.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\bin\Debug\net5.0\ref\异步提前终止.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\bin\Debug\net5.0\异步提前终止.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\ref\异步提前终止.dll
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.genruntimeconfig.cache
+E:\Projects\C-sharp\.NET Core2022 Study\异步提前终止\obj\Debug\net5.0\异步提前终止.csproj.AssemblyReference.cache

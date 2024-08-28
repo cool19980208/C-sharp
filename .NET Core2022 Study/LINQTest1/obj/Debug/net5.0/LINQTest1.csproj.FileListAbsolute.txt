@@ -1,0 +1,16 @@
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\bin\Debug\net5.0\LINQTest1.exe
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\bin\Debug\net5.0\LINQTest1.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\bin\Debug\net5.0\LINQTest1.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\bin\Debug\net5.0\LINQTest1.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\bin\Debug\net5.0\LINQTest1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\bin\Debug\net5.0\ref\LINQTest1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\bin\Debug\net5.0\LINQTest1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\ref\LINQTest1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\LINQTest1\obj\Debug\net5.0\LINQTest1.genruntimeconfig.cache
