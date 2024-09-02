@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34902.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ扩展方法1", "LINQ扩展方法1.csproj", "{B210A079-B6D3-47CC-A74D-54BB8FF851F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ扩展方法", "LINQ扩展方法.csproj", "{B210A079-B6D3-47CC-A74D-54BB8FF851F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

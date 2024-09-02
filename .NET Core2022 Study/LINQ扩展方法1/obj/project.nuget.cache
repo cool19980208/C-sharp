@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LePdcfpBkpE0EB8ut6sXXSOG4XJQTECTk5v9el2dF9XJYdaaT2FPNIqmW9VpN2LDmwUI05yg+yoESXmvB+U7QQ==",
+  "dgSpecHash": "wx8wdG/aBGTDUVhOAmv9IN7NL4ZRuEX+XE2oI6W1fdw1xqzf9YQ9sG1uSnnTp3dLI4rfHj2fjpLCt1SL+DVecg==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法1.csproj",
+  "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

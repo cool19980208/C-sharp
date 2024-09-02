@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法1.csproj": {}
+    "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法1.csproj": {
+    "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法1.csproj",
+        "projectUniqueName": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法.csproj",
         "projectName": "LINQ扩展方法",
-        "projectPath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法1.csproj",
+        "projectPath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\LINQ扩展方法.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\LINQ扩展方法1\\obj\\",
         "projectStyle": "PackageReference",

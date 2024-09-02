@@ -1,0 +1,15 @@
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\bin\Debug\net5.0\LINQ扩展方法.exe
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\bin\Debug\net5.0\LINQ扩展方法.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\bin\Debug\net5.0\LINQ扩展方法.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\bin\Debug\net5.0\LINQ扩展方法.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\bin\Debug\net5.0\LINQ扩展方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\bin\Debug\net5.0\ref\LINQ扩展方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\bin\Debug\net5.0\LINQ扩展方法.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\ref\LINQ扩展方法.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.genruntimeconfig.cache
