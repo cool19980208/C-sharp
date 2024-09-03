@@ -175,13 +175,24 @@ namespace LINQ扩展方法
                 Console.WriteLine("********************");
             }*/
             //例子：根据年龄分组，获取每组人数、最高工资、平均工资。用var简化编程。
-            var items = list.GroupBy(e => e.Age).Select(g => new { Gender = g.Key, Count = g.Count(), Av = g.Average(e=>e.Salary),MaxAge=g.Max(e=>e.Age),MinAge=g.Min(e=>e.Age) });
+            /*var items = list.GroupBy(e => e.Age).Select(g => new { Gender = g.Key, Count = g.Count(), Av = g.Average(e=>e.Salary),MaxAge=g.Max(e=>e.Age),MinAge=g.Min(e=>e.Age) });
             foreach (var item in items)
             {
                 Console.WriteLine($"年龄：{item.Gender}+每组人数:{item.Count}+平均工资：{item.Av}");
-            }
+            }*/
             #endregion
 
+
+            Employee[] items1 = list.Where(e => e.Salary > 3000).ToArray();
+            List<Employee> items2 = list.Where(e => e.Salary > 3000).ToList();
+
+            var items = list.Where(e => e.Id > 2).GroupBy(e => e.Age).OrderBy(g => g.Key).Take(3)
+                .Select(g => new { NewAge = g.Key, Count = g.Count(), Av = g.Average(e => e.Salary) });
+            //g=IGrouping<int,Employee> ;  e=Employee 
+            foreach (var item in items)
+            {
+                Console.WriteLine($"年龄：{item.NewAge};人数:{item.Count};平均工资：{item.Av}");
+            }
         }
     }
 }

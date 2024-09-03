@@ -13,3 +13,4 @@ E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ�
 E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\ref\LINQ扩展方法.dll
 E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.pdb
 E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.genruntimeconfig.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LINQ扩展方法1\obj\Debug\net5.0\LINQ扩展方法.csproj.AssemblyReference.cache
