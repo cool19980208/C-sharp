@@ -183,7 +183,7 @@ namespace LINQ扩展方法
             #endregion
 
 
-            Employee[] items1 = list.Where(e => e.Salary > 3000).ToArray();
+            /*Employee[] items1 = list.Where(e => e.Salary > 3000).ToArray();
             List<Employee> items2 = list.Where(e => e.Salary > 3000).ToList();
 
             var items = list.Where(e => e.Id > 2).GroupBy(e => e.Age).OrderBy(g => g.Key).Take(3)
@@ -192,7 +192,26 @@ namespace LINQ扩展方法
             foreach (var item in items)
             {
                 Console.WriteLine($"年龄：{item.NewAge};人数:{item.Count};平均工资：{item.Av}");
+            }*/
+
+            //LINQ方法语法
+            var items = list.Where(e => e.Salary > 3000).OrderBy(e => e.Age)
+                .Select(e => new { MZ = e.Name, NL = e.Age, XB = e.Gender ? "男" : "女" });
+            foreach (var e in items)
+            {
+                Console.WriteLine(e);
             }
+
+            /*//查询语法
+            var items = from e in list
+                        where e.Salary > 5000
+                        orderby e.Age
+                        select new { e.Name, e.Age, Gender = e.Gender ? "男" : "女" };
+            foreach (var e in items)
+            {
+                Console.WriteLine(e);
+            }*/
+
         }
     }
 }

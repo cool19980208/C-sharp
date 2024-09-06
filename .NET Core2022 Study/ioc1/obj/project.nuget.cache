@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2V62NsB69YsBjGm2wXcJzN6Ky2ZKq6ODE53uAUtH7zMZVegEfhbAxBqa/Cwfdj3Ud9hAtgpOPUuirvAA798Pzw==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\ioc1\\ioc1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
