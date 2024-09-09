@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "57Uyk+aNsfPl0pekxw0etAh/eBK6A2E0w/o8sOmNOsc3ioM41z7IssPWjBFlyY22kYORPCuIelUKtpgGKKj8KA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MailServices\\MailServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

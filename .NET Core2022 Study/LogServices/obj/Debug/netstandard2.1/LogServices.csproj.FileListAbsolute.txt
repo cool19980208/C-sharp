@@ -1,0 +1,10 @@
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\bin\Debug\netstandard2.1\LogServices.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\bin\Debug\netstandard2.1\LogServices.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\bin\Debug\netstandard2.1\LogServices.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\obj\Debug\netstandard2.1\LogServices.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\obj\Debug\netstandard2.1\LogServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\obj\Debug\netstandard2.1\LogServices.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\obj\Debug\netstandard2.1\LogServices.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\obj\Debug\netstandard2.1\LogServices.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\obj\Debug\netstandard2.1\LogServices.dll
+E:\Projects\C-sharp\.NET Core2022 Study\LogServices\obj\Debug\netstandard2.1\LogServices.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "14U767h+N9PQaIsGvrxYbKWTSi3NC+GoIUTLMYIoyLJU3SH7zFHQG+oBzKqPJh6dcvt54N0pE91/8fR7oiU/hg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\DI依赖注入1\\DI依赖注入1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

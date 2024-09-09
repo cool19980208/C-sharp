@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ox8qZ8FNLg9Ey1WmuwgIycr/sgd9sWVoEQyIPFd62W8mPESn/M8mCX0Y6J7UUKuEUM/Ul4Vcgaf81nIBGT2BJw==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\ConfigServices\\ConfigServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

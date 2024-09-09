@@ -1,11 +1,40 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System;
+using System.Collections.Generic;
 
 namespace ioc1
 {
     class Program
     {
         static void Main(string[] args)
+        {
+            ServiceCollection services = new ServiceCollection();
+            services.AddScoped<ITestService, TestServiceImpl>();//ITestService==服务 ；TestServiceImpl==注册
+            services.AddScoped<ITestService, TestServiceImp2>();
+            //services.AddScoped(typeof (ITestService), typeof (TestServiceImpl));
+            //services.AddSingleton<ITestService, TestServiceImpl>();
+            //services.AddSingleton(typeof(ITestService), new TestServiceImpl());
+            using (ServiceProvider sp = services.BuildServiceProvider())
+            {
+                //GetService如果找不到服务，就返回null
+                ITestService ts1 = sp.GetService<ITestService>();
+                //ITestService ts1 = (ITestService)sp.GetService(typeof(ITestService));//非泛型
+                //Required:必须的。如果找不到，直接抛异常
+                //类似于显示类型转换和as
+                ITestService ts2 = sp.GetRequiredService<ITestService>();
+                ts1.Name = "zane";
+                ts1.SayHi();
+                Console.WriteLine(ts1.GetType());
+
+                IEnumerable<ITestService> tests = sp.GetServices<ITestService>();
+                foreach (ITestService t in tests)
+                {
+                    Console.WriteLine(t.GetType());
+                }
+            }
+            Console.ReadLine();
+        }
+        static void Main1(string[] args)
         {
             ServiceCollection services = new ServiceCollection();
             //services.AddTransient<TestServiceImpl>();//瞬态服务
@@ -56,25 +85,5 @@ namespace ioc1
             
         }
     }
-    public interface ITestService//接口
-    {
-        public string Name { get; set; }
-        public void SayHi();
 
-    }
-    public class TestServiceImpl:ITestService,IDisposable//实现类
-    {
-        public string Name { get; set; }
-
-        public void Dispose()
-        {
-            Console.WriteLine("Disposable......");
-        }
-
-        public void SayHi()
-        {
-            Console.WriteLine($"Hi,I'm {Name}");
-        }
-
-    }
 }

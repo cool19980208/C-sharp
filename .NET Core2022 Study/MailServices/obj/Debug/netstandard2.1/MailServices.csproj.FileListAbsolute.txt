@@ -1,0 +1,15 @@
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\bin\Debug\netstandard2.1\MailServices.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\bin\Debug\netstandard2.1\MailServices.dll
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\bin\Debug\netstandard2.1\MailServices.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\bin\Debug\netstandard2.1\ConfigServices.dll
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\bin\Debug\netstandard2.1\LogServices.dll
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\bin\Debug\netstandard2.1\ConfigServices.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\bin\Debug\netstandard2.1\LogServices.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.csproj.CopyComplete
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.dll
+E:\Projects\C-sharp\.NET Core2022 Study\MailServices\obj\Debug\netstandard2.1\MailServices.pdb
