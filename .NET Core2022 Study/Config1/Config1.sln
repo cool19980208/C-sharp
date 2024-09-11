@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Config1", "Config1\Config1.csproj", "{058B44F2-FF62-44C1-9C60-EA9CEF1CD7EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "书本上的例子", "书本上的例子\书本上的例子.csproj", "{6DAC31A5-F3EB-4BD5-979B-F3EC807F763C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自定义配置提供", "自定义配置提供\自定义配置提供.csproj", "{95EB898F-DD5C-40AE-8D11-3953CC4C92E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058B44F2-FF62-44C1-9C60-EA9CEF1CD7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058B44F2-FF62-44C1-9C60-EA9CEF1CD7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058B44F2-FF62-44C1-9C60-EA9CEF1CD7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058B44F2-FF62-44C1-9C60-EA9CEF1CD7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAC31A5-F3EB-4BD5-979B-F3EC807F763C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAC31A5-F3EB-4BD5-979B-F3EC807F763C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAC31A5-F3EB-4BD5-979B-F3EC807F763C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAC31A5-F3EB-4BD5-979B-F3EC807F763C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EB898F-DD5C-40AE-8D11-3953CC4C92E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EB898F-DD5C-40AE-8D11-3953CC4C92E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EB898F-DD5C-40AE-8D11-3953CC4C92E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EB898F-DD5C-40AE-8D11-3953CC4C92E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F12885E7-7640-41DA-97BE-4334A59C30A1}
+	EndGlobalSection
+EndGlobal
