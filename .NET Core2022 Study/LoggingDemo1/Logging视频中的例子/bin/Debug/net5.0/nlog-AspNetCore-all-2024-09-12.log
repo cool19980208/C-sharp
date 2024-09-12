@@ -1,0 +1,28 @@
+2024-09-12 16:21:22.6933|0|DEBUG|Logging视频中的例子.Text1|开始执行数据库同步 
+2024-09-12 16:21:22.7168|0|DEBUG|Logging视频中的例子.Text1|连接数据库成功 
+2024-09-12 16:21:22.7168|0|WARN|Logging视频中的例子.Text1|查找数据失败，重试第一次 
+2024-09-12 16:21:22.7168|0|WARN|Logging视频中的例子.Text1|查找数据失败，重试第二次 
+2024-09-12 16:21:22.7168|0|ERROR|Logging视频中的例子.Text1|查找数据最终失败 
+2024-09-12 16:21:22.7305|0|ERROR|Logging视频中的例子.Text1|读取文件失败 System.IO.DirectoryNotFoundException: Could not find a part of the path 'A:\1.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Logging视频中的例子.Text1.Test() in E:\Projects\C-sharp\.NET Core2022 Study\LoggingDemo1\Logging视频中的例子\Text1.cs:line 28
+2024-09-12 16:22:11.6228|0|DEBUG|Logging视频中的例子.Text1|开始执行数据库同步 
+2024-09-12 16:22:11.6439|0|DEBUG|Logging视频中的例子.Text1|连接数据库成功 
+2024-09-12 16:22:11.6439|0|WARN|Logging视频中的例子.Text1|查找数据失败，重试第一次 
+2024-09-12 16:22:11.6439|0|WARN|Logging视频中的例子.Text1|查找数据失败，重试第二次 
+2024-09-12 16:22:11.6439|0|ERROR|Logging视频中的例子.Text1|查找数据最终失败 
+2024-09-12 16:22:11.6439|0|ERROR|Logging视频中的例子.Text1|读取文件失败 System.IO.DirectoryNotFoundException: Could not find a part of the path 'A:\1.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at Logging视频中的例子.Text1.Test() in E:\Projects\C-sharp\.NET Core2022 Study\LoggingDemo1\Logging视频中的例子\Text1.cs:line 28

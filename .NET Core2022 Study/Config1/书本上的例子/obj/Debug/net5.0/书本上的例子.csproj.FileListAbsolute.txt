@@ -34,3 +34,4 @@ E:\Projects\C-sharp\.NET Core2022 Study\Config1\书本上的例子\obj\Debug\net
 E:\Projects\C-sharp\.NET Core2022 Study\Config1\书本上的例子\bin\Debug\net5.0\appsettings.json
 E:\Projects\C-sharp\.NET Core2022 Study\Config1\书本上的例子\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
 E:\Projects\C-sharp\.NET Core2022 Study\Config1\书本上的例子\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Config1\书本上的例子\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll

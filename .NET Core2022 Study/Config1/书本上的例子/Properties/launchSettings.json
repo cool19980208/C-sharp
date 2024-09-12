@@ -2,9 +2,8 @@
   "profiles": {
     "书本上的例子": {
       "commandName": "Project",
-      "commandLineArgs": "DB:DbType=666 Smtp:Server=zane",
+      "commandLineArgs": "DB:DbType=666",
       "environmentVariables": {
-        "TEST_Smtp:Server": "cool",
         "TEST_DB:DbType": "888"
       }
     }

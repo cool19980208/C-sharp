@@ -16,9 +16,11 @@ namespace Config1
         }
         public void Test()
         {
-            Console.WriteLine(optConfig.Value.Age);
+            Config config = optConfig.Value;
+            Console.WriteLine(config.Age);
             Console.WriteLine("****************");
-            Console.WriteLine(optConfig.Value.Age);
+            Console.WriteLine(config.Proxy.Address);
+            Console.WriteLine(config.Proxy.Port);
         }
     }
 }

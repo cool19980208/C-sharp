@@ -29,7 +29,7 @@ namespace 自定义配置提供
                 string connectionString = nodeConnStr.Attributes["connectionString"].Value;//读取connectionString
 
                 //[connstr1:connectionString="Data Source=.;Initial Catalog=DemoDB;User ID=sa;Password=123456" providerName = "System.Data.SqlClient{}]
-                data[$"{name}:connectionString"] = connectionString;
+                data[$"{name}:connectionString"] = connectionString;//扁平化的设置格式
                 var providerNameProp = nodeConnStr.Attributes["providerName"];//读取providerName
                 if (providerNameProp != null)
                 {

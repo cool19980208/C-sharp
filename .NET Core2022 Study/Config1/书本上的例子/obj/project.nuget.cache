@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5Wn4pggdM+q2T2oUd3uLUK05uDVUpfTPjQQJhpUxgDe8VaKvAjO0PM/w6LEajJREmtRtzA3pTYNlNqtAlgBJsQ==",
+  "dgSpecHash": "iLRVIe54TLZ/HiONRV4PYFt0p7SriWoH6S0UiWwZGP+nI47m8IoWLLnfLUOWoWyvKNglhLaPny3PLBkbQeKWeA==",
   "success": true,
   "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\Config1\\书本上的例子\\书本上的例子.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\8.0.0\\microsoft.extensions.configuration.environmentvariables.8.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0\\microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\5.0.0\\microsoft.extensions.configuration.usersecrets.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",

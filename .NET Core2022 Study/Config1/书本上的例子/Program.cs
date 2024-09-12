@@ -11,8 +11,10 @@ namespace 书本上的例子
         {
             ConfigurationBuilder configBuilder = new ConfigurationBuilder();
             //configBuilder.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);读取json
-            //configBuilder.AddCommandLine(args);//从命名行读取配置
+            configBuilder.AddUserSecrets<Program>();//机密配置文件
             configBuilder.AddEnvironmentVariables("TEST_");//从环境变量读取配置  建议有前缀去区分 比如：TEST_
+            configBuilder.AddCommandLine(args);//从命名行读取配置
+            
             IConfigurationRoot config = configBuilder.Build();
             ServiceCollection services = new ServiceCollection();
             services.AddOptions()
