@@ -47,6 +47,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Exceptionless": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -62,6 +66,14 @@
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[5.3.12, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Sinks.Exceptionless": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

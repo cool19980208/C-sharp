@@ -21,8 +21,14 @@ namespace SystemServices
             logger.LogWarning("查找数据失败，重试第一次");
             logger.LogWarning("查找数据失败，重试第二次");
             logger.LogError("查找数据最终失败");
+            User user = new User { Name = "admin", Emai = "123465@qq.com" };//Serilog-Test
+            logger.LogDebug("注册一个用户{@person}", user);//Serilog-Test
 
-          
+        }
+        class User//Serilog-Test
+        {
+            public string Name { get; set; }
+            public string Emai { get; set; }
         }
     }
 }

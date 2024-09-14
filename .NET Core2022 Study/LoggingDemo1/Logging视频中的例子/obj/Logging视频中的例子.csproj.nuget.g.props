@@ -17,4 +17,7 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgExceptionless Condition=" '$(PkgExceptionless)' == '' ">C:\Users\Administrator\.nuget\packages\exceptionless\6.0.4</PkgExceptionless>
+  </PropertyGroup>
 </Project>

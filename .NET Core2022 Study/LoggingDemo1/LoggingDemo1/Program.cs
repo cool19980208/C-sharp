@@ -1,23 +1,20 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using System;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using System;
-
 namespace LoggingDemo1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ServiceCollection services = new ServiceCollection();//DI注入
+            ServiceCollection services = new ServiceCollection(); //DI注入
             //services.AddScoped<>();
             services.AddLogging(logBuilder =>
             {
-                logBuilder.AddConsole(); //可多个Provider           
+                logBuilder.AddConsole(); //可多个Provider
             });
 
-
-
-            using (var sp = services.BuildServiceProvider())//DI注入
+            using (var sp = services.BuildServiceProvider()) //DI注入
             {
                 var logger = sp.GetRequiredService<ILogger<Program>>();
                 logger.LogWarning("这是一条警告信息");
@@ -30,7 +27,6 @@ namespace LoggingDemo1
                 }
                 catch (Exception ex)
                 {
-
                     logger.LogError(ex, "解析字符串为int失败");
                 }
             }
