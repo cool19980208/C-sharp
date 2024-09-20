@@ -63,3 +63,5 @@ E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\EFCoreTest1\obj\Debug\net5.0\EF
 E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\EFCoreTest1\obj\Debug\net5.0\ref\EFCoreTest1.dll
 E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\EFCoreTest1\obj\Debug\net5.0\EFCoreTest1.pdb
 E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\EFCoreTest1\obj\Debug\net5.0\EFCoreTest1.genruntimeconfig.cache
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\EFCoreTest1\bin\Debug\net5.0\MySqlConnector.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\EFCoreTest1\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll

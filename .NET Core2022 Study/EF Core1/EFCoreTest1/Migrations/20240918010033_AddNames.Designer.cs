@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCoreTest1.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20240914085109_Add-Test")]
-    partial class AddTest
+    [Migration("20240918010033_AddNames")]
+    partial class AddNames
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -31,6 +31,9 @@ namespace EFCoreTest1.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Names")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Test")

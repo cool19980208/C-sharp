@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace EFCoreTest1
 {
@@ -12,6 +13,8 @@ namespace EFCoreTest1
             //MultipleActiveResultSets是一个数据库连接选项，它允许在同一个数据库连接上同时执行多个批处理或存储过程。
             //数据库连接
             optionsBuilder.UseSqlServer("Server=.;Database=Test;Trusted_Connection=True;MultipleActiveResultSets=true");
+            //optionsBuilder.UseNpgsql("Host=127.0.0.1;Database=ef;Username=postgres;Password=123456");
+            optionsBuilder.LogTo(Console.WriteLine);//简单日志
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

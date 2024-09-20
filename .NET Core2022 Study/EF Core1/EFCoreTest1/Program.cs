@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace EFCoreTest1
 {
@@ -6,7 +7,15 @@ namespace EFCoreTest1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using (MyDbContext ctx = new MyDbContext())
+            {
+                var books = ctx.Authors.Where(b => b.BirthDay.Year == 1998).Take(3);
+
+                foreach (var b in books)
+                {
+                    Console.WriteLine(b.Id);
+                }
+            }               
         }
     }
 }
