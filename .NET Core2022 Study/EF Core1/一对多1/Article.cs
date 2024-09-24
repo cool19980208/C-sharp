@@ -8,6 +8,7 @@ namespace 一对多1
         public string Title { get; set; }//标题
         public string Content { get; set; }//文章内容
         //建议给一个空的List，比如new List<Comment>() 此文章的多条评论
+        public double Price { get; set; }//测试用的价钱
         public List<Comment> Comments { get; set; } = new List<Comment>();
     }
 }

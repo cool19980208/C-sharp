@@ -10,7 +10,7 @@ namespace 一对多1
             builder.ToTable("T_Comments");
             builder.Property(a => a.Message).IsUnicode().IsRequired();
             //HasForeignKey(c=>c.ArticleId)  指定这个属性为外键
-            builder.HasOne<Article>(c => c.Article).WithMany(a => a.Comments).HasForeignKey(c => c.ArticleId).IsRequired();
+            //builder.HasOne<Article>(c => c.Article).WithMany(a => a.Comments).HasForeignKey(c => c.ArticleId).IsRequired();//多对一
         }
     }
 }

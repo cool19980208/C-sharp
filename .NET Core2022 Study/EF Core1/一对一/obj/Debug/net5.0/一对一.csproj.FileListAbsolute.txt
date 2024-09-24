@@ -1,0 +1,130 @@
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\一对一.exe
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\一对一.deps.json
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\一对一.runtimeconfig.json
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\一对一.runtimeconfig.dev.json
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\一对一.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\一对一.pdb
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Humanizer.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\EFCore\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.csproj.AssemblyReference.cache
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.GeneratedMSBuildEditorConfig.editorconfig
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.AssemblyInfoInputs.cache
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.AssemblyInfo.cs
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.csproj.CoreCompileInputs.cache
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.csproj.Up2Date
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.dll
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\refint\一对一.dll
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.pdb
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\一对一.genruntimeconfig.cache
+E:\EFCore\EF Core1\一对一\obj\Debug\net5.0\ref\一对一.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\一对一.exe
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\一对一.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\一对一.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\一对一.runtimeconfig.dev.json
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\一对一.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\ref\一对一.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\一对一.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Humanizer.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.csproj.CopyComplete
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\ref\一对一.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对一\obj\Debug\net5.0\一对一.genruntimeconfig.cache

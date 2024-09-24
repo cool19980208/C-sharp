@@ -113,15 +113,39 @@ namespace EF_Core1
                 Console.WriteLine(g);
                 Console.WriteLine(g.ToString());*/
 
-                //Guid算法
+                /*//Guid算法
                 Author a2 = new Author { Name = "Zack Yang" };
                 a2.Id = Guid.NewGuid();
                 Console.WriteLine($"保存前，Id={a2.Id}");
                 ctx.Authors.Add(a2);
                 await ctx.SaveChangesAsync();
-                Console.WriteLine($"保存后，Id={a2.Id}");
+                Console.WriteLine($"保存后，Id={a2.Id}");*/
+                /*IQueryable<Book> books = ctx.Books.Where(b => b.Price > 8);
+                Console.WriteLine(books.Count());
+                Console.WriteLine(books.Max(b=>b.Price));
+                foreach (Book b in books.Where(b=>b.PubTime.Year>2000))
+                {
+                    Console.WriteLine(b.Title);
+                }*/
+                PrintPage(1, 2);
+                Console.WriteLine("***************");
+                PrintPage(2, 2);
 
-
+            }
+        }
+        static void PrintPage(int pageIndex,int pageSize)
+        {
+            using(MyDbContext ctx = new MyDbContext())
+            {
+                IQueryable<Book> books = ctx.Books.Where(b => b.Title.Contains("1"));
+                long count = books.LongCount();//总条数
+                long pageCount = (long)Math.Ceiling(count * 1.0 / pageSize);//页数
+                Console.WriteLine("页数:"+pageCount);
+                var pagedBooks = books.Skip((pageIndex - 1) * pageSize).Take(pageSize);
+                foreach (var b in pagedBooks)
+                {
+                    Console.WriteLine(b.Id+","+b.Title);
+                }
             }
         }
     }

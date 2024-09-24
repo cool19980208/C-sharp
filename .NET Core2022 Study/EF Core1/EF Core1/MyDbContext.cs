@@ -20,6 +20,7 @@ namespace EF_Core1
             //MultipleActiveResultSets是一个数据库连接选项，它允许在同一个数据库连接上同时执行多个批处理或存储过程。
             //数据库连接
             optionsBuilder.UseSqlServer("Server=.;Database=School;Trusted_Connection=True;MultipleActiveResultSets=true");
+            //optionsBuilder.LogTo(Console.WriteLine);//简单日志
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
