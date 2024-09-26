@@ -18,6 +18,7 @@ namespace 一对多1
             //数据库连接
             optionsBuilder.UseSqlServer("Server=.;Database=Demo1;Trusted_Connection=True;MultipleActiveResultSets=true");
             optionsBuilder.LogTo(Console.WriteLine);//简单日志
+            optionsBuilder.UseBatchEF_MSSQL();
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

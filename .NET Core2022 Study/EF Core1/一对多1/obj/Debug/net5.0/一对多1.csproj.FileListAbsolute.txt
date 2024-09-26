@@ -128,3 +128,6 @@ E:\EFCore\EF Core1\一对多1\obj\Debug\net5.0\refint\一对多1.dll
 E:\EFCore\EF Core1\一对多1\obj\Debug\net5.0\一对多1.pdb
 E:\EFCore\EF Core1\一对多1\obj\Debug\net5.0\一对多1.genruntimeconfig.cache
 E:\EFCore\EF Core1\一对多1\obj\Debug\net5.0\ref\一对多1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对多1\bin\Debug\net5.0\Dapper.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对多1\bin\Debug\net5.0\Zack.EFCore.Batch.dll
+E:\Projects\C-sharp\.NET Core2022 Study\EF Core1\一对多1\bin\Debug\net5.0\Zack.EFCore.Batch.MSSQL.dll

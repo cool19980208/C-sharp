@@ -11,6 +11,7 @@ namespace 一对多1
         {
             builder.ToTable("T_Articles");
             builder.HasMany<Comment>(a => a.Comments).WithOne(c => c.Article).HasForeignKey(c => c.ArticleId).IsRequired();//一对多
+            builder.HasQueryFilter(b => b.IsDeleted == false);//全局软删除筛选器
         }
     }
 }
