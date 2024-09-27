@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "表达式树1", "表达式树1\表达式树1.csproj", "{9081A0C6-F99A-49BE-B519-7E786FFFFAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9081A0C6-F99A-49BE-B519-7E786FFFFAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9081A0C6-F99A-49BE-B519-7E786FFFFAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9081A0C6-F99A-49BE-B519-7E786FFFFAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9081A0C6-F99A-49BE-B519-7E786FFFFAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2720E35C-3B34-4DA5-8912-45661A36581C}
+	EndGlobalSection
+EndGlobal
