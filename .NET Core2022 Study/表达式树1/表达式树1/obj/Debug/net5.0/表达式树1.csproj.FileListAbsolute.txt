@@ -66,3 +66,4 @@ E:\Projects\C-sharp\.NET Core2022 Study\表达式树1\表达式树1\obj\Debug\ne
 E:\Projects\C-sharp\.NET Core2022 Study\表达式树1\表达式树1\bin\Debug\net5.0\ExpressionTreeToString.dll
 E:\Projects\C-sharp\.NET Core2022 Study\表达式树1\表达式树1\bin\Debug\net5.0\OneOf.dll
 E:\Projects\C-sharp\.NET Core2022 Study\表达式树1\表达式树1\bin\Debug\net5.0\ZSpitz.Util.dll
+E:\Projects\C-sharp\.NET Core2022 Study\表达式树1\表达式树1\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll

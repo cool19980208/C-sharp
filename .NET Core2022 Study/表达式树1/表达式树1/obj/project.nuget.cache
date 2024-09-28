@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YPDN1QcEJ1voiYGXBxkprkkAEYIH6Brug/SFHSi8YX6K0LzEzLEk3HkXYk8OQOu34zb3EWMsgxfaVrzNsDn5cA==",
+  "dgSpecHash": "8SDj8XZKtbZDxsZaD5XZoWzvyCQ2AN5MBRQYMGYkoAcU4ManvUCrvYRFm4dmDfs6SSbNJ5HqHz5MI86m6SJqbg==",
   "success": true,
   "projectFilePath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\表达式树1\\表达式树1\\表达式树1.csproj",
   "expectedPackageFiles": [
@@ -84,6 +84,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.linq.dynamic.core\\1.4.5\\system.linq.dynamic.core.1.4.5.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
