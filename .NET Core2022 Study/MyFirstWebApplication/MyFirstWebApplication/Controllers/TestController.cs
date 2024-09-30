@@ -10,7 +10,7 @@ namespace MyFirstWebApplication.Controllers
         [HttpGet]
         public Person GetPerson()
         {
-            return new Person("Zane", 18);
+            return new Person(6,"Zane", 18);
         }
         [HttpPost]
         public string SaveNote(SaveNoteRequest req)

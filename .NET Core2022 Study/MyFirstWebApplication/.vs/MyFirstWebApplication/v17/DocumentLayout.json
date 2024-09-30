@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|e:\\projects\\c-sharp\\.net core2022 study\\myfirstwebapplication\\myfirstwebapplication\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|solutionrelative:myfirstwebapplication\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|e:\\projects\\c-sharp\\.net core2022 study\\myfirstwebapplication\\myfirstwebapplication\\controllers\\savenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|solutionrelative:myfirstwebapplication\\controllers\\savenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|e:\\projects\\c-sharp\\.net core2022 study\\myfirstwebapplication\\myfirstwebapplication\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|solutionrelative:myfirstwebapplication\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|e:\\projects\\c-sharp\\.net core2022 study\\myfirstwebapplication\\myfirstwebapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|solutionrelative:myfirstwebapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|e:\\projects\\c-sharp\\.net core2022 study\\myfirstwebapplication\\myfirstwebapplication\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912737A4-2B30-43D1-A717-BC670F6B5BDF}|MyFirstWebApplication\\MyFirstWebApplication.csproj|solutionrelative:myfirstwebapplication\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SaveNoteRequest.cs",
-              "DocumentMoniker": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\SaveNoteRequest.cs",
-              "RelativeDocumentMoniker": "MyFirstWebApplication\\Controllers\\SaveNoteRequest.cs",
-              "ToolTip": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\SaveNoteRequest.cs",
-              "RelativeToolTip": "MyFirstWebApplication\\Controllers\\SaveNoteRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:26:23.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Person.cs",
-              "RelativeDocumentMoniker": "MyFirstWebApplication\\Person.cs",
-              "ToolTip": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Person.cs",
-              "RelativeToolTip": "MyFirstWebApplication\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:19:52.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "MyFirstWebApplication\\Controllers\\TestController.cs",
-              "ToolTip": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\TestController.cs",
-              "RelativeToolTip": "MyFirstWebApplication\\Controllers\\TestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApplication\\Controllers\\PersonsController.cs",
+              "ToolTip": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "MyFirstWebApplication\\Controllers\\PersonsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:18:58.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MyFirstWebApplication\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\MyFirstWebApplication\\MyFirstWebApplication\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MyFirstWebApplication\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T03:36:49.281Z",
+              "WhenOpened": "2024-09-30T01:23:56.472Z",
               "EditorCaption": ""
             }
           ]

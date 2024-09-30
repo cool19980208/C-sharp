@@ -1,0 +1,33 @@
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\appsettings.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Web API Demo1.exe
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Web API Demo1.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Web API Demo1.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Web API Demo1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Web API Demo1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.sourcelink.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\staticwebassets\msbuild.Web API Demo1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\staticwebassets\msbuild.build.Web API Demo1.props
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web API Demo1.props
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web API Demo1.props
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\scopedcss\bundle\Web API Demo1.styles.css
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API .0122BEB8.Up2Date
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\refint\Web API Demo1.dll
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\Web API Demo1.genruntimeconfig.cache
+E:\Projects\C-sharp\.NET Core2022 Study\Web API Demo1\Web API Demo1\obj\Debug\net6.0\ref\Web API Demo1.dll

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\Web API Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{931C7F12-37A9-4B32-9A16-14120071140E}|Web API Demo1\\Web API Demo1.csproj|e:\\projects\\c-sharp\\.net core2022 study\\web api demo1\\web api demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931C7F12-37A9-4B32-9A16-14120071140E}|Web API Demo1\\Web API Demo1.csproj|solutionrelative:web api demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931C7F12-37A9-4B32-9A16-14120071140E}|Web API Demo1\\Web API Demo1.csproj|e:\\projects\\c-sharp\\.net core2022 study\\web api demo1\\web api demo1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931C7F12-37A9-4B32-9A16-14120071140E}|Web API Demo1\\Web API Demo1.csproj|solutionrelative:web api demo1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\Web API Demo1\\Web API Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Web API Demo1\\Program.cs",
+              "ToolTip": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\Web API Demo1\\Web API Demo1\\Program.cs",
+              "RelativeToolTip": "Web API Demo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:49:46.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\Web API Demo1\\Web API Demo1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Web API Demo1\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Projects\\C-sharp\\.NET Core2022 Study\\Web API Demo1\\Web API Demo1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Web API Demo1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:18:01.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
