@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gHGmd7eokoinz/3aiJOVmPinqXrIamxgMtPyLNlJOMI=",
+  "Source": "ASP.NET Core集成EF Core",
+  "BasePath": "_content/ASP.NET Core集成EF Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

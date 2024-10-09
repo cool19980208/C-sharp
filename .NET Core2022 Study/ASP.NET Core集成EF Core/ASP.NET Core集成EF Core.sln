@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core集成EF Core", "ASP.NET Core集成EF Core\ASP.NET Core集成EF Core.csproj", "{7F958D73-73D4-4DF6-A0DF-3035DDF9A972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksEFCore", "BooksEFCore\BooksEFCore.csproj", "{F2FF8563-B20D-45A1-9CE7-71AA7AE9F86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F958D73-73D4-4DF6-A0DF-3035DDF9A972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F958D73-73D4-4DF6-A0DF-3035DDF9A972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F958D73-73D4-4DF6-A0DF-3035DDF9A972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F958D73-73D4-4DF6-A0DF-3035DDF9A972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FF8563-B20D-45A1-9CE7-71AA7AE9F86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FF8563-B20D-45A1-9CE7-71AA7AE9F86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FF8563-B20D-45A1-9CE7-71AA7AE9F86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FF8563-B20D-45A1-9CE7-71AA7AE9F86F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43824DC-CDC9-4917-A679-2161F380A6B0}
+	EndGlobalSection
+EndGlobal

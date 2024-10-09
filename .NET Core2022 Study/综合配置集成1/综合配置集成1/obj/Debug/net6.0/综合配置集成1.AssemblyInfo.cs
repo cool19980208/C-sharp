@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("综合配置集成1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5225341a19f573d6c4910a661ef843a5aa1aab2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("综合配置集成1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("综合配置集成1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

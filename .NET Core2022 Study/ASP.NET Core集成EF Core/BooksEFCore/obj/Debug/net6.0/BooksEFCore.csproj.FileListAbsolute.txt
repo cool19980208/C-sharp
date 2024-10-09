@@ -1,0 +1,15 @@
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\bin\Debug\net6.0\BooksEFCore.deps.json
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\bin\Debug\net6.0\BooksEFCore.runtimeconfig.json
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\bin\Debug\net6.0\BooksEFCore.dll
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\bin\Debug\net6.0\BooksEFCore.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.csproj.AssemblyReference.cache
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.AssemblyInfoInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.AssemblyInfo.cs
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.csproj.CoreCompileInputs.cache
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.sourcelink.json
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.dll
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\refint\BooksEFCore.dll
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.pdb
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\BooksEFCore.genruntimeconfig.cache
+E:\Projects\C-sharp\.NET Core2022 Study\ASP.NET Core集成EF Core\BooksEFCore\obj\Debug\net6.0\ref\BooksEFCore.dll
