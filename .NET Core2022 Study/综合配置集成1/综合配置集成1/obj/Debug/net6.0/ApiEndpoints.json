@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "\u7EFC\u5408\u914D\u7F6E\u96C6\u62101.Controllers.TestController",
+    "Method": "Demo1",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

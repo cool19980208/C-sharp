@@ -1,0 +1,11 @@
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+E:\EFCore\WebAPI\DIWebAPI1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
